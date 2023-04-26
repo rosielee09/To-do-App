@@ -24,7 +24,10 @@ todaysDate();
 
 
 // store list to localStorage
-let myList = []; 
+let myList = [
+  
+
+]; 
 const listKey = 'myList'; 
 
 // to save the myList array to LocalStorage
@@ -52,7 +55,9 @@ function loadList() {
 
     // Scroll to the last added list item after rendering the list
     const listItems = document.querySelectorAll('.list__row');
+    if(listItems.length >0){
     listItems[listItems.length - 1].scrollIntoView({ block: 'center' });
+    }
   }
 }
 
