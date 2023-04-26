@@ -1,5 +1,5 @@
 # 'Just do it' : Todo-App
-https://rosielee09.github.io/To-do-App/
+[https://rosielee09.github.io/To-do-App/]
 
 ## About
 Practical To-Do app that helps you manage your tasks with ease. You can quickly add, delete, and mark tasks as done using markdown. 
