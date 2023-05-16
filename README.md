@@ -1,4 +1,4 @@
-# 'Just do it' : Todo-App
+# 'Just do it' : To-do-App
 [https://rosielee09.github.io/To-do-App/]
 
 ## Description
